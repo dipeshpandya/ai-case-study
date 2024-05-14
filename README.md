@@ -1,6 +1,6 @@
 # AI in Financial Services Industry
 
-## Overview and Origin
+# Overview and Origin
 
 * `Name of company` Upstart Holdings, Inc.
 
