@@ -42,7 +42,7 @@ Upstart's customer have two personas - end user customer who intends to get a lo
 
 * `What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)` As per company's website, they offer more accurate, efficient, and inclusive lending. Using their AI enabled model, lenders can approve more applicants at lower rates across races, ages, and genders, while simultaneously delivering the exceptional digital-first experience customers demand in this day and age.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.) The company has proprietary and patented loan model machine learning algorithm and utilizes artificial intelligence for fraud detention.
+* `Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)` The company has proprietary and patented loan model machine learning algorithm and utilizes artificial intelligence for fraud detention.
 
 ## Landscape
 
